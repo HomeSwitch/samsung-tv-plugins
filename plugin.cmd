@@ -1,1 +1,0 @@
-samsungctl --host %1 %2
